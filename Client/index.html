@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="index.css" />
   </head>
   <body>
-    <div class="main">
+    <div class="main" id="form">
       <img src="logo.png" alt="" class="logo" />
       <div class="searchbar">
         <input type="text" name="" placeholder="Search" />
@@ -18,15 +18,20 @@
       <div class="searchbutton">
         <input
           type="button"
-          onclick="window.location.href='results.html'"
           value="Google Search"
+          onclick="window.location.href='results.html'"
+          id="search"
         />
         <input
           type="button"
-          onclick="window.location.href='imfeelinglucky.html'"
           value="I'm Feeling Lucky"
+          onclick="window.location.href='imfeelinglucky.html'"
+          id="randombutton"
         />
       </div>
     </div>
+    <section class="#results">
+      <p id="searchresults"></p>
+    </section>
   </body>
 </html>
