@@ -1,0 +1,29 @@
+{
+  "name": "google-pair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Server/app.js",
+    "dev": "nodemon Server/app.js",
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarushanThiy/Google-PairProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarushanThiy/Google-PairProject/issues"
+  },
+  "homepage": "https://github.com/SarushanThiy/Google-PairProject#readme",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "coverage": "^0.4.1",
+    "express": "^4.17.3",
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15",
+    "supertest": "^6.2.2"
+  }
+}
