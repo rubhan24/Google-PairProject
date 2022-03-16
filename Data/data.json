@@ -1,0 +1,17 @@
+{
+    "vegetables": [
+        "https://www.medicalnewstoday.com/articles/283006",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "https://www.healthline.com/nutrition/14-healthiest-vegetables-on-earth",
+        "https://www.britannica.com/story/is-a-tomato-a-fruit-or-a-vegetable",
+        "https://www.bestfoodfacts.org/is-the-mushroom-a-vegetable-2/"
+    ],
+
+    "meat": [
+        "https://en.wikipedia.org/wiki/Meat",
+        "https://www.recipetineats.com/how-to-cook-steak/",
+        "https://en.wikipedia.org/wiki/Steak",
+        "https://www.merriam-webster.com/dictionary/meat",
+        "https://www.britannica.com/topic/meat"
+    ]
+}
