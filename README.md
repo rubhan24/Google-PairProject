@@ -6,4 +6,4 @@
 
 ## Installation
 
-## Problems and Challenges.
+## Problems and Challenges
